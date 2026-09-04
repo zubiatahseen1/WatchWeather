@@ -1,13 +1,13 @@
 //
-//  assignment_5_Watch_AppUITestsLaunchTests.swift
-//  assignment_5 Watch AppUITests
+//  WatchWeather_Watch_AppUITestsLaunchTests.swift
+//  WatchWeather Watch AppUITests
 //
 //  Created by Zubia Tahseen on 2026-06-23.
 //
 
 import XCTest
 
-final class assignment_5_Watch_AppUITestsLaunchTests: XCTestCase {
+final class WatchWeather_Watch_AppUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

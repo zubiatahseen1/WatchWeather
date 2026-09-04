@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9B71191A2FEAF55900E748B8 /* assignment_5 Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 9B7119192FEAF55900E748B8 /* assignment_5 Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		9B71191A2FEAF55900E748B8 /* WatchWeather Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 9B7119192FEAF55900E748B8 /* WatchWeather Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -16,21 +16,21 @@
 			containerPortal = 9B71190D2FEAF55900E748B8 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 9B7119182FEAF55900E748B8;
-			remoteInfo = "assignment_5 Watch App";
+			remoteInfo = "WatchWeather Watch App";
 		};
 		9B7119292FEAF55B00E748B8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 9B71190D2FEAF55900E748B8 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 9B7119182FEAF55900E748B8;
-			remoteInfo = "assignment_5 Watch App";
+			remoteInfo = "WatchWeather Watch App";
 		};
 		9B7119332FEAF55B00E748B8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 9B71190D2FEAF55900E748B8 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 9B7119182FEAF55900E748B8;
-			remoteInfo = "assignment_5 Watch App";
+			remoteInfo = "WatchWeather Watch App";
 		};
 /* End PBXContainerItemProxy section */
 
@@ -41,7 +41,7 @@
 			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
 			dstSubfolderSpec = 16;
 			files = (
-				9B71191A2FEAF55900E748B8 /* assignment_5 Watch App.app in Embed Watch Content */,
+				9B71191A2FEAF55900E748B8 /* WatchWeather Watch App.app in Embed Watch Content */,
 			);
 			name = "Embed Watch Content";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -49,26 +49,26 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		9B7119132FEAF55900E748B8 /* assignment_5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = assignment_5.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		9B7119192FEAF55900E748B8 /* assignment_5 Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "assignment_5 Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9B7119282FEAF55B00E748B8 /* assignment_5 Watch AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "assignment_5 Watch AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9B7119322FEAF55B00E748B8 /* assignment_5 Watch AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "assignment_5 Watch AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9B7119132FEAF55900E748B8 /* WatchWeather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WatchWeather.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9B7119192FEAF55900E748B8 /* WatchWeather Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WatchWeather Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9B7119282FEAF55B00E748B8 /* WatchWeather Watch AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "WatchWeather Watch AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9B7119322FEAF55B00E748B8 /* WatchWeather Watch AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "WatchWeather Watch AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		9B71191D2FEAF55900E748B8 /* assignment_5 Watch App */ = {
+		9B71191D2FEAF55900E748B8 /* WatchWeather Watch App */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "assignment_5 Watch App";
+			path = "WatchWeather Watch App";
 			sourceTree = "<group>";
 		};
-		9B71192B2FEAF55B00E748B8 /* assignment_5 Watch AppTests */ = {
+		9B71192B2FEAF55B00E748B8 /* WatchWeather Watch AppTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "assignment_5 Watch AppTests";
+			path = "WatchWeather Watch AppTests";
 			sourceTree = "<group>";
 		};
-		9B7119352FEAF55B00E748B8 /* assignment_5 Watch AppUITests */ = {
+		9B7119352FEAF55B00E748B8 /* WatchWeather Watch AppUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "assignment_5 Watch AppUITests";
+			path = "WatchWeather Watch AppUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -101,9 +101,9 @@
 		9B71190C2FEAF55900E748B8 = {
 			isa = PBXGroup;
 			children = (
-				9B71191D2FEAF55900E748B8 /* assignment_5 Watch App */,
-				9B71192B2FEAF55B00E748B8 /* assignment_5 Watch AppTests */,
-				9B7119352FEAF55B00E748B8 /* assignment_5 Watch AppUITests */,
+				9B71191D2FEAF55900E748B8 /* WatchWeather Watch App */,
+				9B71192B2FEAF55B00E748B8 /* WatchWeather Watch AppTests */,
+				9B7119352FEAF55B00E748B8 /* WatchWeather Watch AppUITests */,
 				9B7119142FEAF55900E748B8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -111,10 +111,10 @@
 		9B7119142FEAF55900E748B8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9B7119132FEAF55900E748B8 /* assignment_5.app */,
-				9B7119192FEAF55900E748B8 /* assignment_5 Watch App.app */,
-				9B7119282FEAF55B00E748B8 /* assignment_5 Watch AppTests.xctest */,
-				9B7119322FEAF55B00E748B8 /* assignment_5 Watch AppUITests.xctest */,
+				9B7119132FEAF55900E748B8 /* WatchWeather.app */,
+				9B7119192FEAF55900E748B8 /* WatchWeather Watch App.app */,
+				9B7119282FEAF55B00E748B8 /* WatchWeather Watch AppTests.xctest */,
+				9B7119322FEAF55B00E748B8 /* WatchWeather Watch AppUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -122,9 +122,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9B7119122FEAF55900E748B8 /* assignment_5 */ = {
+		9B7119122FEAF55900E748B8 /* WatchWeather */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9B7119402FEAF55B00E748B8 /* Build configuration list for PBXNativeTarget "assignment_5" */;
+			buildConfigurationList = 9B7119402FEAF55B00E748B8 /* Build configuration list for PBXNativeTarget "WatchWeather" */;
 			buildPhases = (
 				9B7119112FEAF55900E748B8 /* Resources */,
 				9B71193F2FEAF55B00E748B8 /* Embed Watch Content */,
@@ -134,16 +134,16 @@
 			dependencies = (
 				9B71191C2FEAF55900E748B8 /* PBXTargetDependency */,
 			);
-			name = assignment_5;
+			name = WatchWeather;
 			packageProductDependencies = (
 			);
-			productName = assignment_5;
-			productReference = 9B7119132FEAF55900E748B8 /* assignment_5.app */;
+			productName = WatchWeather;
+			productReference = 9B7119132FEAF55900E748B8 /* WatchWeather.app */;
 			productType = "com.apple.product-type.application.watchapp2-container";
 		};
-		9B7119182FEAF55900E748B8 /* assignment_5 Watch App */ = {
+		9B7119182FEAF55900E748B8 /* WatchWeather Watch App */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9B71193C2FEAF55B00E748B8 /* Build configuration list for PBXNativeTarget "assignment_5 Watch App" */;
+			buildConfigurationList = 9B71193C2FEAF55B00E748B8 /* Build configuration list for PBXNativeTarget "WatchWeather Watch App" */;
 			buildPhases = (
 				9B7119152FEAF55900E748B8 /* Sources */,
 				9B7119162FEAF55900E748B8 /* Frameworks */,
@@ -154,18 +154,18 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				9B71191D2FEAF55900E748B8 /* assignment_5 Watch App */,
+				9B71191D2FEAF55900E748B8 /* WatchWeather Watch App */,
 			);
-			name = "assignment_5 Watch App";
+			name = "WatchWeather Watch App";
 			packageProductDependencies = (
 			);
-			productName = "assignment_5 Watch App";
-			productReference = 9B7119192FEAF55900E748B8 /* assignment_5 Watch App.app */;
+			productName = "WatchWeather Watch App";
+			productReference = 9B7119192FEAF55900E748B8 /* WatchWeather Watch App.app */;
 			productType = "com.apple.product-type.application";
 		};
-		9B7119272FEAF55B00E748B8 /* assignment_5 Watch AppTests */ = {
+		9B7119272FEAF55B00E748B8 /* WatchWeather Watch AppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9B7119432FEAF55B00E748B8 /* Build configuration list for PBXNativeTarget "assignment_5 Watch AppTests" */;
+			buildConfigurationList = 9B7119432FEAF55B00E748B8 /* Build configuration list for PBXNativeTarget "WatchWeather Watch AppTests" */;
 			buildPhases = (
 				9B7119242FEAF55B00E748B8 /* Sources */,
 				9B7119252FEAF55B00E748B8 /* Frameworks */,
@@ -177,18 +177,18 @@
 				9B71192A2FEAF55B00E748B8 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				9B71192B2FEAF55B00E748B8 /* assignment_5 Watch AppTests */,
+				9B71192B2FEAF55B00E748B8 /* WatchWeather Watch AppTests */,
 			);
-			name = "assignment_5 Watch AppTests";
+			name = "WatchWeather Watch AppTests";
 			packageProductDependencies = (
 			);
-			productName = "assignment_5 Watch AppTests";
-			productReference = 9B7119282FEAF55B00E748B8 /* assignment_5 Watch AppTests.xctest */;
+			productName = "WatchWeather Watch AppTests";
+			productReference = 9B7119282FEAF55B00E748B8 /* WatchWeather Watch AppTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		9B7119312FEAF55B00E748B8 /* assignment_5 Watch AppUITests */ = {
+		9B7119312FEAF55B00E748B8 /* WatchWeather Watch AppUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9B7119462FEAF55B00E748B8 /* Build configuration list for PBXNativeTarget "assignment_5 Watch AppUITests" */;
+			buildConfigurationList = 9B7119462FEAF55B00E748B8 /* Build configuration list for PBXNativeTarget "WatchWeather Watch AppUITests" */;
 			buildPhases = (
 				9B71192E2FEAF55B00E748B8 /* Sources */,
 				9B71192F2FEAF55B00E748B8 /* Frameworks */,
@@ -200,13 +200,13 @@
 				9B7119342FEAF55B00E748B8 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				9B7119352FEAF55B00E748B8 /* assignment_5 Watch AppUITests */,
+				9B7119352FEAF55B00E748B8 /* WatchWeather Watch AppUITests */,
 			);
-			name = "assignment_5 Watch AppUITests";
+			name = "WatchWeather Watch AppUITests";
 			packageProductDependencies = (
 			);
-			productName = "assignment_5 Watch AppUITests";
-			productReference = 9B7119322FEAF55B00E748B8 /* assignment_5 Watch AppUITests.xctest */;
+			productName = "WatchWeather Watch AppUITests";
+			productReference = 9B7119322FEAF55B00E748B8 /* WatchWeather Watch AppUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -235,7 +235,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9B7119102FEAF55900E748B8 /* Build configuration list for PBXProject "assignment_5" */;
+			buildConfigurationList = 9B7119102FEAF55900E748B8 /* Build configuration list for PBXProject "WatchWeather" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -249,10 +249,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9B7119122FEAF55900E748B8 /* assignment_5 */,
-				9B7119182FEAF55900E748B8 /* assignment_5 Watch App */,
-				9B7119272FEAF55B00E748B8 /* assignment_5 Watch AppTests */,
-				9B7119312FEAF55B00E748B8 /* assignment_5 Watch AppUITests */,
+				9B7119122FEAF55900E748B8 /* WatchWeather */,
+				9B7119182FEAF55900E748B8 /* WatchWeather Watch App */,
+				9B7119272FEAF55B00E748B8 /* WatchWeather Watch AppTests */,
+				9B7119312FEAF55B00E748B8 /* WatchWeather Watch AppUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -315,17 +315,17 @@
 /* Begin PBXTargetDependency section */
 		9B71191C2FEAF55900E748B8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9B7119182FEAF55900E748B8 /* assignment_5 Watch App */;
+			target = 9B7119182FEAF55900E748B8 /* WatchWeather Watch App */;
 			targetProxy = 9B71191B2FEAF55900E748B8 /* PBXContainerItemProxy */;
 		};
 		9B71192A2FEAF55B00E748B8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9B7119182FEAF55900E748B8 /* assignment_5 Watch App */;
+			target = 9B7119182FEAF55900E748B8 /* WatchWeather Watch App */;
 			targetProxy = 9B7119292FEAF55B00E748B8 /* PBXContainerItemProxy */;
 		};
 		9B7119342FEAF55B00E748B8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9B7119182FEAF55900E748B8 /* assignment_5 Watch App */;
+			target = 9B7119182FEAF55900E748B8 /* WatchWeather Watch App */;
 			targetProxy = 9B7119332FEAF55B00E748B8 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -457,7 +457,7 @@
 				DEVELOPMENT_TEAM = 8YGZ92V4WK;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = assignment_5;
+				INFOPLIST_KEY_CFBundleDisplayName = WatchWeather;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -465,7 +465,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.trios2026zt.assignment-5.watchkitapp";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.trios2026zt.WatchWeather.watchkitapp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -490,7 +490,7 @@
 				DEVELOPMENT_TEAM = 8YGZ92V4WK;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = assignment_5;
+				INFOPLIST_KEY_CFBundleDisplayName = WatchWeather;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -498,7 +498,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.trios2026zt.assignment-5.watchkitapp";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.trios2026zt.WatchWeather.watchkitapp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -520,9 +520,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 8YGZ92V4WK;
-				INFOPLIST_KEY_CFBundleDisplayName = assignment_5;
+				INFOPLIST_KEY_CFBundleDisplayName = WatchWeather;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.trios2026zt.assignment-5";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.trios2026zt.WatchWeather";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -537,9 +537,9 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 8YGZ92V4WK;
-				INFOPLIST_KEY_CFBundleDisplayName = assignment_5;
+				INFOPLIST_KEY_CFBundleDisplayName = WatchWeather;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.trios2026zt.assignment-5";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.trios2026zt.WatchWeather";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -558,7 +558,7 @@
 				DEVELOPMENT_TEAM = 8YGZ92V4WK;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.trios2026zt.assignment-5-Watch-AppTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.trios2026zt.WatchWeather-Watch-AppTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
@@ -567,7 +567,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 4;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/assignment_5 Watch App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/assignment_5 Watch App";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WatchWeather Watch App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/WatchWeather Watch App";
 				WATCHOS_DEPLOYMENT_TARGET = 26.4;
 			};
 			name = Debug;
@@ -581,7 +581,7 @@
 				DEVELOPMENT_TEAM = 8YGZ92V4WK;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.trios2026zt.assignment-5-Watch-AppTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.trios2026zt.WatchWeather-Watch-AppTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
@@ -590,7 +590,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 4;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/assignment_5 Watch App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/assignment_5 Watch App";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WatchWeather Watch App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/WatchWeather Watch App";
 				VALIDATE_PRODUCT = YES;
 				WATCHOS_DEPLOYMENT_TARGET = 26.4;
 			};
@@ -604,7 +604,7 @@
 				DEVELOPMENT_TEAM = 8YGZ92V4WK;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.trios2026zt.assignment-5-Watch-AppUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.trios2026zt.WatchWeather-Watch-AppUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
@@ -613,7 +613,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 4;
-				TEST_TARGET_NAME = "assignment_5 Watch App";
+				TEST_TARGET_NAME = "WatchWeather Watch App";
 				WATCHOS_DEPLOYMENT_TARGET = 26.4;
 			};
 			name = Debug;
@@ -626,7 +626,7 @@
 				DEVELOPMENT_TEAM = 8YGZ92V4WK;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.trios2026zt.assignment-5-Watch-AppUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.trios2026zt.WatchWeather-Watch-AppUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
@@ -635,7 +635,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 4;
-				TEST_TARGET_NAME = "assignment_5 Watch App";
+				TEST_TARGET_NAME = "WatchWeather Watch App";
 				VALIDATE_PRODUCT = YES;
 				WATCHOS_DEPLOYMENT_TARGET = 26.4;
 			};
@@ -644,7 +644,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9B7119102FEAF55900E748B8 /* Build configuration list for PBXProject "assignment_5" */ = {
+		9B7119102FEAF55900E748B8 /* Build configuration list for PBXProject "WatchWeather" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9B71193A2FEAF55B00E748B8 /* Debug */,
@@ -653,7 +653,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9B71193C2FEAF55B00E748B8 /* Build configuration list for PBXNativeTarget "assignment_5 Watch App" */ = {
+		9B71193C2FEAF55B00E748B8 /* Build configuration list for PBXNativeTarget "WatchWeather Watch App" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9B71193D2FEAF55B00E748B8 /* Debug */,
@@ -662,7 +662,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9B7119402FEAF55B00E748B8 /* Build configuration list for PBXNativeTarget "assignment_5" */ = {
+		9B7119402FEAF55B00E748B8 /* Build configuration list for PBXNativeTarget "WatchWeather" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9B7119412FEAF55B00E748B8 /* Debug */,
@@ -671,7 +671,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9B7119432FEAF55B00E748B8 /* Build configuration list for PBXNativeTarget "assignment_5 Watch AppTests" */ = {
+		9B7119432FEAF55B00E748B8 /* Build configuration list for PBXNativeTarget "WatchWeather Watch AppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9B7119442FEAF55B00E748B8 /* Debug */,
@@ -680,7 +680,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9B7119462FEAF55B00E748B8 /* Build configuration list for PBXNativeTarget "assignment_5 Watch AppUITests" */ = {
+		9B7119462FEAF55B00E748B8 /* Build configuration list for PBXNativeTarget "WatchWeather Watch AppUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9B7119472FEAF55B00E748B8 /* Debug */,

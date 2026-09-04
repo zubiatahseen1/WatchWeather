@@ -1,6 +1,6 @@
 //
 //  WeatherDetailView.swift
-//  assignment_5 Watch App
+//  WatchWeather Watch App
 //
 //  Created by Zubia Tahseen on 2026-06-23.
 //
